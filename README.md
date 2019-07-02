@@ -1,7 +1,4 @@
-# some ponders from the internship  
-====
-**大屏图像处理**
-====  
+#大屏图像处理 
 **1.1 SR(Super Resolution)超分辨率**  
 1.1.1 传统方案（插值）:bowtie:  
 最临近点插值算法、双线性插值、双立方插值  
